@@ -1,0 +1,34 @@
+_repo: Other-WorldsTheir-Nature-Possibilities-and-Habitability-in-the-Light-of-the-Latest-Discoverie__18431
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Serviss, Garrett Putman
+    alias: Serviss, Garrett P. (Garrett Putman)
+    birthdate: 1851
+    deathdate: 1929
+    gutenberg_agent_id: '2120'
+    url: http://www.gutenberg.org/2009/agents/2120
+    wikipedia: http://en.wikipedia.org/wiki/Garrett_P._Serviss
+description: ''
+gutenberg_bookshelf:
+- Astronomy
+- Science Fiction
+gutenberg_issued: '2006-05-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '18431'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'QB'
+- !lcsh 'Astronomy'
+- !lcsh 'Planets'
+title: 'Other Worlds
+
+  Their Nature, Possibilities and Habitability in the Light of the Latest Discoveries'
+url: http://www.gutenberg.org/ebooks/18431
