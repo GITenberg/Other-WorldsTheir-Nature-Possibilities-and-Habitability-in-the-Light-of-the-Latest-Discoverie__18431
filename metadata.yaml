@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/2120
     wikipedia: http://en.wikipedia.org/wiki/Garrett_P._Serviss
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/18431#Other-WorldsTheir-Nature-Possibilities-and-Habitability-in-the-Light-of-the-Latest-Discoverie_
 gutenberg_bookshelf:
 - Astronomy
 - Science Fiction
